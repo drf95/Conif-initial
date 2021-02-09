@@ -33,7 +33,7 @@ NUM_NODES = 21 #DEBUG#
 #                             Constants                              #
 #====================================================================#
 
-DEFAULT_DIRECTORY = "/home/"
+DEFAULT_DIRECTORY = "/home/pi/ilord/Conif-initial/"
 CONFIG_PATH = "config_ccwsn.txt"
 DATA_PATH = "data.txt"
 INTEREST_PATH = "interest.txt"
