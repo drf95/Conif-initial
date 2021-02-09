@@ -1,0 +1,8 @@
+[0,0]
+name1;data1
+name2;data2
+[70,70]
+name3;data3
+name4;data4
+[210;210]
+name5;data5
